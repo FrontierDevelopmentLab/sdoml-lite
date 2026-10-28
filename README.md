@@ -1,3 +1,5 @@
+<img width="1412" height="175" alt="Label for FDL Produts-01" src="https://github.com/user-attachments/assets/4fb99107-56c1-4910-8645-41d18c4e1d64" />
+
 ***Note: This repository contains the code to generate and use SDOML-lite datasets with a given configuration (date ranges, channels to include, etc.). For an actual and ready to use SDOML-lite dataset (covering 13 May 2010 - 31 July 2024), visit the [SDOML-lite dataset on HuggingFace](https://huggingface.co/datasets/oxai4science/sdoml-lite)***
 
 
